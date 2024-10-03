@@ -1,0 +1,404 @@
+[
+    {
+      "id": "q1",
+      "domain": "leadership",
+      "text": "I feel confident guiding a team toward achieving our goals."
+    },
+    {
+      "id": "q2",
+      "domain": "leadership",
+      "text": "I take initiative to lead projects when opportunities arise."
+    },
+    {
+      "id": "q3",
+      "domain": "leadership",
+      "text": "I inspire others with a clear vision of what can be accomplished."
+    },
+    {
+      "id": "q4",
+      "domain": "leadership",
+      "text": "I make decisive decisions that benefit the group."
+    },
+    {
+      "id": "q5",
+      "domain": "leadership",
+      "text": "I empower team members to contribute their best efforts."
+    },
+    {
+      "id": "q6",
+      "domain": "leadership",
+      "text": "I handle leadership responsibilities with enthusiasm and commitment."
+    },
+    {
+      "id": "q7",
+      "domain": "leadership",
+      "text": "I provide constructive feedback to help others grow."
+    },
+    {
+      "id": "q8",
+      "domain": "leadership",
+      "text": "I adapt my leadership style to meet the needs of different situations."
+    },
+    {
+      "id": "q9",
+      "domain": "leadership",
+      "text": "I remain calm and focused during challenging times."
+    },
+    {
+      "id": "q10",
+      "domain": "leadership",
+      "text": "I actively seek opportunities to develop my leadership skills."
+    },
+    {
+      "id": "q11",
+      "domain": "communication",
+      "text": "I express my ideas clearly and effectively in conversations."
+    },
+    {
+      "id": "q12",
+      "domain": "communication",
+      "text": "I actively listen to understand others' perspectives."
+    },
+    {
+      "id": "q13",
+      "domain": "communication",
+      "text": "I adapt my communication style based on my audience."
+    },
+    {
+      "id": "q14",
+      "domain": "communication",
+      "text": "I convey information concisely and accurately in writing."
+    },
+    {
+      "id": "q15",
+      "domain": "communication",
+      "text": "I feel comfortable speaking in front of groups."
+    },
+    {
+      "id": "q16",
+      "domain": "communication",
+      "text": "I use nonverbal cues to enhance my message."
+    },
+    {
+      "id": "q17",
+      "domain": "communication",
+      "text": "I ask insightful questions to deepen understanding."
+    },
+    {
+      "id": "q18",
+      "domain": "communication",
+      "text": "I provide and accept feedback openly and respectfully."
+    },
+    {
+      "id": "q19",
+      "domain": "communication",
+      "text": "I engage others in meaningful and productive dialogue."
+    },
+    {
+      "id": "q20",
+      "domain": "communication",
+      "text": "I use storytelling to make complex ideas more accessible."
+    },
+    {
+      "id": "q21",
+      "domain": "problem-solving",
+      "text": "I enjoy tackling complex challenges that require innovative solutions."
+    },
+    {
+      "id": "q22",
+      "domain": "problem-solving",
+      "text": "I approach problems analytically and logically."
+    },
+    {
+      "id": "q23",
+      "domain": "problem-solving",
+      "text": "I consider multiple perspectives when resolving issues."
+    },
+    {
+      "id": "q24",
+      "domain": "problem-solving",
+      "text": "I persistently seek solutions despite obstacles."
+    },
+    {
+      "id": "q25",
+      "domain": "problem-solving",
+      "text": "I break down large problems into manageable parts."
+    },
+    {
+      "id": "q26",
+      "domain": "problem-solving",
+      "text": "I apply creative thinking to find effective answers."
+    },
+    {
+      "id": "q27",
+      "domain": "problem-solving",
+      "text": "I learn from past experiences to improve future outcomes."
+    },
+    {
+      "id": "q28",
+      "domain": "problem-solving",
+      "text": "I collaborate with others to enhance problem-solving efforts."
+    },
+    {
+      "id": "q29",
+      "domain": "problem-solving",
+      "text": "I remain calm and focused under pressure."
+    },
+    {
+      "id": "q30",
+      "domain": "problem-solving",
+      "text": "I proactively identify potential issues before they arise."
+    },
+    {
+      "id": "q31",
+      "domain": "creativity",
+      "text": "I enjoy generating original ideas and concepts."
+    },
+    {
+      "id": "q32",
+      "domain": "creativity",
+      "text": "I seek opportunities to express myself creatively."
+    },
+    {
+      "id": "q33",
+      "domain": "creativity",
+      "text": "I am open to experimenting with new approaches."
+    },
+    {
+      "id": "q34",
+      "domain": "creativity",
+      "text": "I find inspiration in diverse sources and experiences."
+    },
+    {
+      "id": "q35",
+      "domain": "creativity",
+      "text": "I encourage others to think innovatively."
+    },
+    {
+      "id": "q36",
+      "domain": "creativity",
+      "text": "I integrate creativity into everyday tasks and projects."
+    },
+    {
+      "id": "q37",
+      "domain": "creativity",
+      "text": "I adapt well to unconventional methods."
+    },
+    {
+      "id": "q38",
+      "domain": "creativity",
+      "text": "I see connections between seemingly unrelated ideas."
+    },
+    {
+      "id": "q39",
+      "domain": "creativity",
+      "text": "I value innovation and continuous improvement."
+    },
+    {
+      "id": "q40",
+      "domain": "creativity",
+      "text": "I embrace change as a chance to create something new."
+    },
+    {
+      "id": "q41",
+      "domain": "adaptability",
+      "text": "I adjust quickly to new situations or changes in plans."
+    },
+    {
+      "id": "q42",
+      "domain": "adaptability",
+      "text": "I maintain a positive attitude when facing unexpected challenges."
+    },
+    {
+      "id": "q43",
+      "domain": "adaptability",
+      "text": "I am comfortable stepping outside my comfort zone."
+    },
+    {
+      "id": "q44",
+      "domain": "adaptability",
+      "text": "I thrive in environments with shifting priorities."
+    },
+    {
+      "id": "q45",
+      "domain": "adaptability",
+      "text": "I learn new skills to meet evolving demands."
+    },
+    {
+      "id": "q46",
+      "domain": "adaptability",
+      "text": "I modify my approach based on feedback and results."
+    },
+    {
+      "id": "q47",
+      "domain": "adaptability",
+      "text": "I handle uncertainty with confidence and composure."
+    },
+    {
+      "id": "q48",
+      "domain": "adaptability",
+      "text": "I embrace diverse perspectives and ideas."
+    },
+    {
+      "id": "q49",
+      "domain": "adaptability",
+      "text": "I stay effective while managing multiple tasks."
+    },
+    {
+      "id": "q50",
+      "domain": "adaptability",
+      "text": "I view change as an opportunity for personal growth."
+    },
+    {
+      "id": "q51",
+      "domain": "collaboration",
+      "text": "I work well with others to achieve shared goals."
+    },
+    {
+      "id": "q52",
+      "domain": "collaboration",
+      "text": "I value and respect each team member's contributions."
+    },
+    {
+      "id": "q53",
+      "domain": "collaboration",
+      "text": "I build strong, supportive relationships with colleagues."
+    },
+    {
+      "id": "q54",
+      "domain": "collaboration",
+      "text": "I openly share information and resources."
+    },
+    {
+      "id": "q55",
+      "domain": "collaboration",
+      "text": "I actively participate in group discussions and activities."
+    },
+    {
+      "id": "q56",
+      "domain": "collaboration",
+      "text": "I consider and integrate ideas different from my own."
+    },
+    {
+      "id": "q57",
+      "domain": "collaboration",
+      "text": "I help resolve team conflicts constructively."
+    },
+    {
+      "id": "q58",
+      "domain": "collaboration",
+      "text": "I contribute positively to the team's morale."
+    },
+    {
+      "id": "q59",
+      "domain": "collaboration",
+      "text": "I coordinate efforts effectively during group projects."
+    },
+    {
+      "id": "q60",
+      "domain": "collaboration",
+      "text": "I recognize the importance of teamwork in achieving success."
+    },
+    {
+      "id": "q61",
+      "domain": "emotional-intelligence",
+      "text": "I recognize and understand my own emotions."
+    },
+    {
+      "id": "q62",
+      "domain": "emotional-intelligence",
+      "text": "I empathize with others' feelings and perspectives."
+    },
+    {
+      "id": "q63",
+      "domain": "emotional-intelligence",
+      "text": "I manage my emotions effectively in challenging situations."
+    },
+    {
+      "id": "q64",
+      "domain": "emotional-intelligence",
+      "text": "I respond thoughtfully rather than react impulsively."
+    },
+    {
+      "id": "q65",
+      "domain": "emotional-intelligence",
+      "text": "I build trust through honesty and integrity."
+    },
+    {
+      "id": "q66",
+      "domain": "emotional-intelligence",
+      "text": "I am aware of how my actions affect those around me."
+    },
+    {
+      "id": "q67",
+      "domain": "emotional-intelligence",
+      "text": "I handle feedback constructively and without defensiveness."
+    },
+    {
+      "id": "q68",
+      "domain": "emotional-intelligence",
+      "text": "I navigate social situations with ease and sensitivity."
+    },
+    {
+      "id": "q69",
+      "domain": "emotional-intelligence",
+      "text": "I offer support when others are experiencing difficulties."
+    },
+    {
+      "id": "q70",
+      "domain": "emotional-intelligence",
+      "text": "I strive to maintain a positive outlook in various circumstances."
+    },
+    {
+      "id": "q71",
+      "domain": "strategic-thinking",
+      "text": "I consider long-term outcomes when making decisions."
+    },
+    {
+      "id": "q72",
+      "domain": "strategic-thinking",
+      "text": "I identify patterns and trends that inform future actions."
+    },
+    {
+      "id": "q73",
+      "domain": "strategic-thinking",
+      "text": "I set clear goals and develop plans to achieve them."
+    },
+    {
+      "id": "q74",
+      "domain": "strategic-thinking",
+      "text": "I anticipate potential challenges and prepare accordingly."
+    },
+    {
+      "id": "q75",
+      "domain": "strategic-thinking",
+      "text": "I enjoy analyzing complex information to guide strategies."
+    },
+    {
+      "id": "q76",
+      "domain": "strategic-thinking",
+      "text": "I align my actions with overarching objectives."
+    },
+    {
+      "id": "q77",
+      "domain": "strategic-thinking",
+      "text": "I generate innovative ideas to drive progress."
+    },
+    {
+      "id": "q78",
+      "domain": "strategic-thinking",
+      "text": "I assess risks and benefits before proceeding."
+    },
+    {
+      "id": "q79",
+      "domain": "strategic-thinking",
+      "text": "I continuously seek knowledge to enhance my strategic insight."
+    },
+    {
+      "id": "q80",
+      "domain": "strategic-thinking",
+      "text": "I encourage others to think strategically about their work."
+    }
+  ]
+  
+  
