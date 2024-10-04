@@ -6,6 +6,7 @@
     "start": "node server/server.js",
     "server": "nodemon server/server.js",
     "client": "npm start --prefix client",
+    "build": "npm run build --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
@@ -17,10 +18,7 @@
     "helmet": "^8.0.0",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
-    "jwt-decode": "^4.0.0",
     "mongoose": "^7.5.0",
-    "react-router-dom": "^6.26.2",
-    "react-transition-group": "^4.4.5",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
