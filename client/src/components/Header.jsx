@@ -15,7 +15,7 @@ const Header = () => {
   return (
     <header style={headerStyle}>
       <div style={logoStyle}>
-        <Link to="/" style={{ textDecoration: 'none', color: '#333' }}>
+        <Link to="https://webapp.traittune.com" style={{ textDecoration: 'none', color: '#333' }}>
           TraitTune (Strengths)
         </Link>
       </div>
