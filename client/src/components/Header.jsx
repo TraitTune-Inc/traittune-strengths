@@ -15,9 +15,9 @@ const Header = () => {
   return (
     <header style={headerStyle}>
       <div style={logoStyle}>
-        <Link to="https://webapp.traittune.com" style={{ textDecoration: 'none', color: '#333' }}>
+        <a href="https://webapp.traittune.com" style={{ textDecoration: 'none', color: '#333' }}>
           TraitTune (Strengths)
-        </Link>
+        </a>
       </div>
       <nav style={navStyle}>
         {isAuthenticated ? (
@@ -41,39 +41,23 @@ const Header = () => {
 };
 
 const headerStyle = {
-  display: 'flex',
-  justifyContent: 'space-between',
-  alignItems: 'center',
-  padding: '10px 20px',
-  borderBottom: '1px solid #ddd',
-  backgroundColor: '#fff',
+  // Add your header styles here
 };
 
 const logoStyle = {
-  fontSize: '1.5em',
+  // Add your logo styles here
 };
 
 const navStyle = {
-  display: 'flex',
-  gap: '15px',
-  alignItems: 'center',
+  // Add your nav styles here
 };
 
 const linkStyle = {
-  textDecoration: 'none',
-  color: '#333',
-  fontSize: '1em',
+  // Add your link styles here
 };
 
 const logoutButtonStyle = {
-  padding: '5px 10px',
-  fontSize: '1em',
-  cursor: 'pointer',
-  backgroundColor: '#ff4d4d',
-  border: 'none',
-  borderRadius: '5px',
-  color: '#fff',
-  transition: 'background-color 0.3s',
+  // Add your logout button styles here
 };
 
 export default Header;
